@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+  <style name="MainTheme" parent="MainTheme.Base"></style>
+  <style name="MainTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+  </style>
+
+  <style name="AppToolbarTheme" parent="Theme.AppCompat.NoActionBar">
+  </style>
+
+</resources>
